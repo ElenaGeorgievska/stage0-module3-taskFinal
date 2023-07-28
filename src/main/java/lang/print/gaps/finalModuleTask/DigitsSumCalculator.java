@@ -22,11 +22,6 @@ public class DigitsSumCalculator {
         System.out.println(ReverseSum);        //10
     }
 
-    //You will be given a four-digit number your task will be to find the sum of all digits in the given number.
-    // Code snippet:
 
-    public static void main(String[] args){
-        DigitsSumCalculator dsc = new DigitsSumCalculator();
-        //dsc.calculateSum(1234);
-    }
+
 }

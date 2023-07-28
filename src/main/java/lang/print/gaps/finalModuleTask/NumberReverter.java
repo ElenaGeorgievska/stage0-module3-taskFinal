@@ -18,13 +18,10 @@ public class NumberReverter {
         System.out.println(reverse);        //321
     }
 
-    public static void main(String[]args){
-        NumberReverter nr = new NumberReverter();
-        //nr.revert(123);
-    }
 
 
 
-    //Revert 3-digit number that will be passed (e.g.: given -> 489, expected -> 984) and print it.
+
+    //3-digit number that will be passed (e.g.: given -> 489, expected -> 984) and print it.
     // Code snippet:
 }
