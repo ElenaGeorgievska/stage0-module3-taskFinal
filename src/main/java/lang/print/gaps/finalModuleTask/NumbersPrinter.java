@@ -11,6 +11,6 @@ public class NumbersPrinter {
     //Where number - variable that should be used within the program.
     public static void main(String[]args){
         NumbersPrinter np = new NumbersPrinter();
-        np.printIsPositive(-1);
+        np.printIsPositive(5);
     }
 }

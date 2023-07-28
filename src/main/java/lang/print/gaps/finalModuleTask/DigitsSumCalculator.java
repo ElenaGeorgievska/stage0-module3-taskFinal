@@ -27,6 +27,6 @@ public class DigitsSumCalculator {
 
     public static void main(String[] args){
         DigitsSumCalculator dsc = new DigitsSumCalculator();
-        dsc.calculateSum(1234);
+        //dsc.calculateSum(1234);
     }
 }

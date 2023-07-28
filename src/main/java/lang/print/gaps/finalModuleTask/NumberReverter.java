@@ -20,7 +20,7 @@ public class NumberReverter {
 
     public static void main(String[]args){
         NumberReverter nr = new NumberReverter();
-        nr.revert(123);
+        //nr.revert(123);
     }
 
 
